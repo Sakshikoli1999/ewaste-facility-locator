@@ -1,6 +1,4 @@
-# E-waste-facility-locator
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
 
@@ -15,8 +13,6 @@ The E-Waste Facility Locator Web App is a user-friendly platform designed to hel
 - **Booking System:** Schedule a pickup at your chosen disposal plant for hassle-free e-waste disposal.
 
 - **Credit Points:** Facility owners can reward users with credit points for their recycling efforts.
-
-- **Social Media Sharing:** Users can share their credit points and recycling achievements on social media to raise awareness about responsible e-waste disposal.
 
 ## Getting Started
 
